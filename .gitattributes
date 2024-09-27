@@ -1,0 +1,10 @@
+* text=auto
+*.rs text diff=rust
+*.cpp text diff=cpp
+*.h text diff=cpp
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.sh text eol=lf
+*.py text diff=python
+Cargo.toml text
+xmake.lua text
